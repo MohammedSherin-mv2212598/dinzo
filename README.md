@@ -40,13 +40,13 @@ We're exploring:
 
 ### Phase 1: Planning
 - [ ] Technical feasibility assessment
-- [ ] User experience design
+- [x] User experience design
 - [ ] API and integration research
 - [ ] Basic UI development
 
 ### Phase 2: Prototype
-- [ ] Develop proof of concept for data extraction
-- [ ] Create basic user interface mockups
+- [x] Develop proof of concept for data extraction
+- [x] Create basic user interface mockups
 - [ ] Test data extraction accuracy
 
 ### Phase 3: MVP Development
